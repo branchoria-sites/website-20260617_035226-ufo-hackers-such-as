@@ -367,10 +367,27 @@ That contrast explains why the 2012 outcome remains one of the most debated aspe
           <a href="https://www.amazon.com/s?k=Cyber+War+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
         </h4>
         <p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
-        
+
         <p class="fr-book-desc">Provides context for how governments and courts view significant computer intrusion cases like McKinnon&#x27;s.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cyber+War+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+        </h4>
+        <p class="fr-book-author">By Cliff Stoll</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+        <p class="fr-book-desc">Explores the pursuit of computer intruders and the legal and investigative issues surrounding cybercrime.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -384,7 +401,7 @@ That contrast explains why the 2012 outcome remains one of the most debated aspe
           <a href="https://www.amazon.com/s?k=Future+Crimes+Marc+Goodman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Future Crimes">Future Crimes</a>
         </h4>
         <p class="fr-book-author">By Marc Goodman</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the broader policy and legal concerns that influence responses to hacking offenses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Future+Crimes+Marc+Goodman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +418,7 @@ That contrast explains why the 2012 outcome remains one of the most debated aspe
           <a href="https://www.amazon.com/s?k=Data+and+Goliath+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
         </h4>
         <p class="fr-book-author">By Bruce Schneier</p>
-        
+
         <p class="fr-book-desc">Provides background on the intersection of technology, state interests, surveillance, and legal systems relevant to extradition-era cyber...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Data+and+Goliath+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,26 +427,9 @@ That contrast explains why the 2012 outcome remains one of the most debated aspe
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Kingpin+Kevin+Poulsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kingpin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NM4cUHqiLcMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Kingpin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Kingpin+Kevin+Poulsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kingpin">Kingpin</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Poulsen</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how cybercrime investigations, prosecutions, and legal consequences develop in high-profile cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Kingpin+Kevin+Poulsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Future+Crimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Future Crimes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+and+Goliath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data and Goliath</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Future+Crimes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Future Crimes</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
