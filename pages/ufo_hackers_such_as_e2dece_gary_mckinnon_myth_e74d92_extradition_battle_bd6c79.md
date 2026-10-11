@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ufo-hackers-such/
 - /mc-kinnon/
 nav_short_title: Extradition
-title: How Extradition Changed the Mc Kinnon Story
+title: "How Extradition Changed the Mc Kinnon Story (Why Gary Mc Kinnon Became the UFO Hacker)"
 title_full: How Extradition Changed the Mc Kinnon Story
 display_title_short: Extradition
 display_title: Extradition

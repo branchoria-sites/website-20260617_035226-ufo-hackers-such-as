@@ -56,7 +56,7 @@ permalink: /extradition/
 sidebar_expanded_urls:
 - /ufo-hackers-such/
 nav_short_title: Extradition
-title: How Extradition Changed the Mc Kinnon Story
+title: "How Extradition Changed the Mc Kinnon Story (UFO Hackers)"
 title_full: How Extradition Changed the Mc Kinnon Story
 display_title_short: Extradition
 display_title: Extradition
